@@ -5,40 +5,40 @@
 
     Considere el siguiente problema:
 
-    Escriba un programa corto donde se tenga un array de enteros como parámetro de entrada y otro como resultado de salida.
+    Escriba un programa corto donde se tenga un array de enteros como parÃ¡metro de entrada y otro como resultado de salida.
     Se necesita calcular las siguientes operaciones.
 
     Clasifica :
-    Números positivos.
-    Números negativos.
-    Números igual a 0.
+    NÃºmeros positivos.
+    NÃºmeros negativos.
+    NÃºmeros igual a 0.
          
-    Calcula el número de elementos de cada clasificación, dividido por el número del array.
-    Represente el número de cada operación con un redondeo de 4 decimales.
-    Devuelva un array de salida con cada operación en el siguiente orden [Npositivos, Nnegativos, Nzero]
+    Calcula el nÃºmero de elementos de cada clasificaciÃ³n, dividido por el nÃºmero del array.
+    Represente el nÃºmero de cada operaciÃ³n con un redondeo de 4 decimales.
+    Devuelva un array de salida con cada operaciÃ³n en el siguiente orden [Npositivos, Nnegativos, Nzero]
      
     Se atiente al siguiente ejemplo:
    
     Array: [1, 2 ,-8, -2, 0, 9]
     
-    Números positivos = 1, 2, 9
-    Números negativos = -8, -2
-    Números igual a 0 = 0
+    NÃºmeros positivos = 1, 2, 9
+    NÃºmeros negativos = -8, -2
+    NÃºmeros igual a 0 = 0
    
     Resultado: [(Npositivios/Array.size), (Nnegativos/Array.size), (Nzero/Array.size)]
     
    
             
 
-    En la carpeta 'test/test01.js' se encuentra el fichero con la definición de nuestro método vacío.
+    En la carpeta 'test/test01.js' se encuentra el fichero con la definiciÃ³n de nuestro mÃ©todo vacÃ­o.
     
     El modus operandi de trabajo es el siguiente:
     
     Debes 'forkear' el proyecto a tu cuenta.
-    Puedes hacer PR's ilimitadas e ir validando poco a poco la solución contra nuestro respositorio con CI.
-    Puedes trabajar en local y subir la solución haciendo un PR a nuestro repositorio.
-    Cuando se envíe la PR final, debes indicar el tiempo de dedicación y los intentos que has hecho.
-    También puedes añadir un comentario para dar cualquier tipo de feedback.
+    Puedes hacer PR's ilimitadas e ir validando poco a poco la soluciÃ³n contra nuestro respositorio con CI.
+    Puedes trabajar en local y subir la soluciÃ³n haciendo un PR a nuestro repositorio.
+    Cuando se envÃ­e la PR final, debes indicar el tiempo de dedicaciÃ³n y los intentos que has hecho.
+    TambiÃ©n puedes aÃ±adir un comentario para dar cualquier tipo de feedback.
     
     En caso de duda, revisa en el apartado de 'Referencias'.       
     
@@ -124,7 +124,7 @@
      **/
 
 
-## Referencias
+## Referencias.
 
 * [Tutorial - Testing Automatizado](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-FFFF/blob/master/README.md)
 
