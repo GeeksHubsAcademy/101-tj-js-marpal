@@ -17,7 +17,7 @@
     Represente el número de cada operación con un redondeo de 4 decimales.
     Devuelva un array de salida con cada operación en el siguiente orden [Npositivos, Nnegativos, Nzero]
      
-    Se atiente al siguiente ejemplo:
+    Se atiente al siguiente ejemplo :
    
     Array: [1, 2 ,-8, -2, 0, 9]
     
