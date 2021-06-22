@@ -3,7 +3,7 @@
 </p>
 
 
-    Considere el siguiente problema:
+    Considere el siguiente probl ema:
 
     Escriba un programa corto donde se tenga un array de enteros como parámetro de entrada y otro como resultado de salida.
     Se necesita calcular las siguientes operaciones.
